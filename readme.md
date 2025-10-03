@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered system for detecting deepfakes and AI-generated content in images and videos using Google's Gemini API.
 
+<i>Project : https://huggingface.co/spaces/ayush-kale-96/DeepDetect </i>
+
 ## 📋 Table of Contents
 
 - [Features](#features)
